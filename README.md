@@ -5,6 +5,7 @@
         ls- used to list
         touch-new file
         pwd-print working directory 
+        ls-a - shows all the hidden files
 
 ## commands with git
         git init-initializes a new git repository
