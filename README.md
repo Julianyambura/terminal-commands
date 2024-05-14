@@ -16,5 +16,6 @@
         git branch-view what branch one is in
         git clone- provides URL of repository u want to clone
         git commit -m - commits changes with a descriptive message
+        git reset- resets the staging area to match the lastest commit
         
 
